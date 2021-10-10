@@ -14,5 +14,6 @@ public class MainActivity extends AppCompatActivity {
         //porotestuiy!!! :((((((((
         //serega salam
         //asd
+        //giniy_mozga
     }
 }
